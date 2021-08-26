@@ -1,6 +1,6 @@
 ### Olá! Sou a Anelise Vaz 👋
 
-🙋‍♂️ Sou estudante, dicas e sugestões são bem vidas!  
+🙋‍♂️ Sou estudante, dicas e sugestões são bem vindas!  
 
 
  <div>
