@@ -20,5 +20,6 @@
   
   <hr>
   
-😊 Estou participando (muito empolgada) do "Programa Winning Women" da IBM e do "Bootcamp Java Developer" da Digital Innovation One.
+😊 Estou participando (muito empolgada) do "Programa Winning Women" da IBM, "Bootcamp Java Developer" da Digital Innovation One e acompanhando o "CS50's Introduction to Computer Science" disponível na edx. Os arquivos em meu GitHub são provenientes dos exercícios realizados nesses projetos que estou participando e também conhecimentos adquiridos em diversos sites, livros e programas.
+
 
