@@ -1,4 +1,4 @@
-### Olá! Sou a Anelise Vaz 👋
+### Olá! Sou a Anelise 👋
 
 📖 Sou estudante, dicas e sugestões são bem vindas! 😄
   
