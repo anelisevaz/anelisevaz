@@ -2,7 +2,7 @@
 
 📖 Sou estudante, dicas e sugestões são bem vindas! 😄
   
-- Busco conhecimento em:
+ Busco conhecimento em:
  - JAVA 
  - Testes automatizados
  - Integração de APIs 
