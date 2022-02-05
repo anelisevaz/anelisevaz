@@ -1,8 +1,7 @@
 👋 Olá! Sou a Anelise
 
-😊 Sou estudante, dicas e sugestões são bem vindas! 
+Sou estudante, dicas e sugestões são bem vindas ✔️
 
-✔️ Busco conhecimento em: JAVA, Testes automatizados, Integração de APIs, PHP, entre outros.
 
 ##
   <div>
