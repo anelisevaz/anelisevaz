@@ -8,11 +8,7 @@
   
 <li><h3>Estou aprendendo:</h3></li>
   <p>JavaScript, PHP, JAVA, SQL e testes automatizados (cucumber e selenium).</p>
-  
-<li><h3>Futuramente pretendo aprender:</h3></li>
-  <p>Spring boot, react.js, next.js, vue.js e angular.</p>
-</ul>
-    <hr>
+  <hr>
   <div align="center">
   <a href="https://github.com/anelisevaz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anelisevaz&layout=compact&langs_count=7&theme=dracula"/>
