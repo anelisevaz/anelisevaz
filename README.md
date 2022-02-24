@@ -10,7 +10,7 @@
   <p>JavaScript, PHP, JAVA, SQL e testes automatizados (cucumber e selenium).</p>
   
 <li><h3>Futuramente pretendo aprender:</h3></li>
-  <p>Spring boot, react js, redux e next.js.</p>
+  <p>Spring boot, react.js, next.js, vue.js e angular.</p>
 </ul>
     <hr>
   <div align="center">
