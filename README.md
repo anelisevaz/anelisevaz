@@ -7,7 +7,7 @@
   <p>GIT, HTML, CSS, Bootstrap, testes manuais, DNS, monitoramento de servidores e consulta de API (através do insomnia).</p>
   
 <li><h3>Estou aprendendo:</h3></li>
-  <p>JavaScript, PHP, JAVA, SQL e testes automatizados (cucumber e selenium).</p>
+  <p>Python, JavaScript, PHP, JAVA, SQL e testes automatizados (cucumber e selenium).</p>
   <hr>
   
   <h3 align="center"><a href="https://anelisevaz.github.io/imaginane/index.html" target="_blank">Portfólio<a/></h3>
